@@ -1,0 +1,7 @@
+version: '3'
+services:
+  quizzapp:
+    container_name: quizzapp
+    hostname: quizzapp
+    build:
+      context: .

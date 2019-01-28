@@ -1,10 +1,11 @@
 # Quiz App
 
-## Installing requirements
+## Requirements
 
- 1. Install Python
- 2. pip install -r requirements.txt
+ `docker>=17.05.0-ce`
+
+ `docker-compose>=1.21.0`
 
 ## Running Cucumber tests
 
-`behave`
+`docker-compose up`
